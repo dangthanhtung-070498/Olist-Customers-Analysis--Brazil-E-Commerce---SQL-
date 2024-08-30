@@ -1,5 +1,7 @@
 Olist Customer Analysis (Brazilian E-commerce Website)
 
+(Check the ppt.pdf for presentation)
+
 ● Objective: Leverage SQL to analyze Olist's massive customer data, extracting business insights about the e-commerce platform.
 
 ● Data: Public Brazilian e-commerce dataset containing 100,000 orders (2016-2018) across various Brazilian marketplaces. 
